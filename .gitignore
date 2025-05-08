@@ -1,0 +1,22 @@
+# Node.js dependencies
+/node_modules/
+
+# Vercel deployment logs
+/.vercel/
+
+# Local environment files
+.env
+
+# OS-specific files
+.DS_Store         # macOS
+Thumbs.db         # Windows
+
+# npm-debug logs
+npm-debug.log
+yarn-error.log
+
+# Log files
+*.log
+
+# Temporary files
+*.swp
