@@ -10,7 +10,7 @@ app.use(express.json());
 app.use('/images', express.static(path.join(__dirname, '../public/images')));
 
 // Read from product.json
-app.get('/products', (req, res) => {
+app.get('/api/products', (req, res) => {
     const dataPath = path.join(__dirname, 'product.json');
     fs.readFile(dataPath, 'utf8', (err, data) => {
         if (err) {
