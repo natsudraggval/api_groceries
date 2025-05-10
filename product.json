@@ -5,7 +5,7 @@
         "price": 55.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Fruits and Vegetable",
-        "image": "/images/apple.jpg"
+        "image": "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 2,
