@@ -1,8 +1,8 @@
 # Grocery Products API
 
-This is a simple product API for a grocery store designed for college students. The API allows you to retrieve product details such as names, descriptions, prices, and images. This project serves as an example of how to build a serverless API using Express and Vercel.
+This is a basic product API for a grocery store made for college students. Built using Next.js API routes, it provides product details like name, description, price, and image from a local product.json file. The API supports GET requests and includes CORS for cross-origin access.
 
 ## Features
 
-- **GET /api/products**: Retrieves a list of products in JSON format.
-- **Static Image Hosting**: Images related to products are served from the `/public/images` directory.
+- **GET /api/products**: Retrieves a list of products in JSON format including images from the respective urls.
+

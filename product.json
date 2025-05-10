@@ -9,11 +9,11 @@
     },
     {
         "id": 2,
-        "title": "Double Cake",
+        "title": "Strawberry Cake",
         "price": 39.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Bakery",
-        "image": "/images/bakery1.jpg"
+        "image": "https://plus.unsplash.com/premium_photo-1713447395823-2e0b40b75a89?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 3,
@@ -21,15 +21,15 @@
         "price": 79.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Bakery",
-        "image": "/images/bakery2.jpg"
+        "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?q=80&w=1989&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 4,
-        "title": "Heart Cake",
+        "title": "Donuts",
         "price": 55.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Bakery",
-        "image": "/images/bakery4.jpg"
+        "image": "https://images.unsplash.com/photo-1514517521153-1be72277b32f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 5,
@@ -37,7 +37,7 @@
         "price": 39.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Fruits and Vegetable",
-        "image": "/images/banana.jpg"
+        "image": "https://images.unsplash.com/photo-1603833665858-e61d17a86224?q=80&w=2127&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 6,
@@ -45,7 +45,7 @@
         "price": 79.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Beverage",
-        "image": "/images/beer.jpg"
+        "image": "https://images.unsplash.com/photo-1618885472179-5e474019f2a9?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 7,
@@ -53,7 +53,7 @@
         "price": 55.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Fruits and Vegetable",
-        "image": "blueberries.jpg"
+        "image": "https://images.unsplash.com/photo-1498557850523-fd3d118b962e?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 8,
@@ -61,7 +61,7 @@
         "price": 39.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Breakfast and Dairy",
-        "image": "/images/box.jpg"
+        "image": "https://images.unsplash.com/photo-1687795097254-f019f9d7fd17?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 9,
@@ -69,7 +69,7 @@
         "price": 79.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Breakfast and Dairy",
-        "image": "/images/bread.jpg"
+        "image": "https://images.unsplash.com/photo-1598373182133-52452f7691ef?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 10,
@@ -77,7 +77,7 @@
         "price": 79.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Bakery",
-        "image": "/images/cake.jpg"
+        "image": "https://images.unsplash.com/photo-1559620192-032c4bc4674e?q=80&w=1929&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 11,
@@ -85,7 +85,7 @@
         "price": 55.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Fruits and Vegetable",
-        "image": "carrot.jpg"
+        "image": "https://images.unsplash.com/photo-1582515073490-39981397c445?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 12,
@@ -93,7 +93,7 @@
         "price": 39.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Breakfast and Dairy",
-        "image": "/images/cheese.jpg"
+        "image": "https://images.unsplash.com/photo-1668104129962-66e931ec9a61?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 13,
@@ -101,7 +101,7 @@
         "price": 79.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Fruits and Vegetable",
-        "image": "/images/cheery.jpg"
+        "image": "https://images.unsplash.com/photo-1593070322495-8c68d341d493?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 14,
@@ -109,7 +109,7 @@
         "price": 55.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Breakfast and Dairy",
-        "image": "/images/chocos.jpg"
+        "image": "https://images.unsplash.com/photo-1743409390921-1d1e673bc351?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 15,
@@ -117,159 +117,159 @@
         "price": 39.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Breakfast and Dairy",
-        "image": "/images/corona.jpg"
+        "image": "https://images.unsplash.com/photo-1550068355-5a140d6177a5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 16,
         "title": "Cream Cake",
         "price": 79.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
-        "category": "sportswear",
-        "image": "/images/creamcake.jpg"
+        "category": "Bakery",
+        "image": "https://images.unsplash.com/photo-1586985289688-ca3cf47d3e6e?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 17,
         "title": "Cup Cake",
         "price": 55.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
-        "category": "men's clothing",
-        "image": "/images/cupcake.jpg"
+        "category": "Bakery",
+        "image": "https://images.unsplash.com/photo-1587668178277-295251f900ce?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 18,
         "title": "Red Blue Cake",
         "price": 39.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
-        "category": "women's clothing",
-        "image": "/images/cupcakes2.jpg"
+        "category": "Bakery",
+        "image": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?q=80&w=2136&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 19,
         "title": "Curd",
         "price": 79.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
-        "category": "sportswear",
-        "image": "/images/curd.jpg"
+        "category": "Breakfast and Dairy",
+        "image": "https://images.unsplash.com/photo-1584278433313-562a1bc0aa6b?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 20,
         "title": "Dairy Milk",
         "price": 79.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
-        "category": "sportswear",
-        "image": "/images/dairymilk.jpg"
+        "category": "Breakfast and Dairy",
+        "image": "https://images.unsplash.com/photo-1646168932800-e48f378d37bb?q=80&w=1926&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 21,
         "title": "Dessert",
         "price": 55.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
-        "category": "men's clothing",
-        "image": "/images/dessert.jpg"
+        "category": "Breakfast and Dairy",
+        "image": "https://images.unsplash.com/photo-1551024506-0bccd828d307?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 22,
         "title": "Fanta",
         "price": 39.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
-        "category": "women's clothing",
-        "image": "/images/fanta.jpg"
+        "category": "Beverage",
+        "image": "https://images.unsplash.com/photo-1632818924360-68d4994cfdb2?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 23,
         "title": "Gems",
         "price": 79.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
-        "category": "sportswear",
-        "image": "/images/gems.jpg"
+        "category": "Breakfast and Dairy",
+        "image": "https://images.unsplash.com/photo-1586795826711-d5405e718900?q=80&w=2055&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 24,
         "title": "Grapes",
         "price": 55.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
-        "category": "men's clothing",
-        "image": "/images/grapes.jpg"
+        "category": "Fruits and Vegetable",
+        "image": "https://images.unsplash.com/photo-1637715924886-cbe4485f90b9?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 25,
         "title": "Green Apple",
         "price": 39.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
-        "category": "women's clothing",
-        "image": "/images/greenapple.jpg"
+        "category": "Fruits and Vegetable",
+        "image": "https://images.unsplash.com/photo-1691731982394-c8bdd16b81eb?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 26,
         "title": "Cone Cup",
         "price": 79.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
-        "category": "sportswear",
-        "image": "/images/icecream.jpg"
+        "category": "Bakery",
+        "image": "https://images.unsplash.com/photo-1497034825429-c343d7c6a68f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 27,
         "title": "Ice Cream",
         "price": 55.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
-        "category": "men's clothing",
-        "image": "/images/icecream2.jpg"
+        "category": "Bakery",
+        "image": "https://images.unsplash.com/photo-1563589173312-476d8c36b242?q=80&w=2030&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 28,
         "title": "Pink Icecream",
         "price": 39.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
-        "category": "women's clothing",
-        "image": "/images/icecream3.jpg"
+        "category": "Bakery",
+        "image": "https://images.unsplash.com/photo-1586769412527-ab0855979b2e?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 29,
         "title": "Jackdaniel",
         "price": 79.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
-        "category": "sportswear",
-        "image": "/images/jackdaniels.jpg"
+        "category": "Beverage",
+        "image": "https://images.unsplash.com/photo-1609371423826-15d16c1b99d4?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 30,
         "title": "Jacobs",
         "price": 79.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
-        "category": "sportswear",
-        "image": "/images/jacobs.jpg"
+        "category": "Beverage",
+        "image": "https://images.unsplash.com/photo-1586618775597-c93488f0a868?q=80&w=1997&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 31,
         "title": "Fruit Jam",
         "price": 55.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
-        "category": "men's clothing",
-        "image": "/images/jam.jpg"
+        "category": "Breakfast and Dairy",
+        "image": "https://plus.unsplash.com/premium_photo-1675234430014-bc7d76d014ed?q=80&w=1976&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 32,
         "title": "KinderJoy",
         "price": 39.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
-        "category": "women's clothing",
-        "image": "/images/kinderjoy.jpg"
+        "category": "Breakfast and Dairy",
+        "image": "https://images.unsplash.com/photo-1575224300306-1b8da36134ec?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 33,
         "title": "Kingfisher",
         "price": 79.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
-        "category": "sportswear",
-        "image": "/images/kingfisher.jpg"
+        "category": "Beverage",
+        "image": "https://images.unsplash.com/photo-1607348985526-377b33c8d277?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 34,
         "title": "Lemonade",
         "price": 55.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
-        "category": "men's clothing",
-        "image": "/images/lemonade.jpg"
+        "category": "Beverage",
+        "image": "https://images.unsplash.com/photo-1575596510825-f748919a2bf7?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 35,
@@ -277,7 +277,7 @@
         "price": 39.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Meat and Seafood",
-        "image": "/images/meat1.jpg"
+        "image": "https://images.unsplash.com/photo-1613454320437-0c228c8b1723?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 36,
@@ -285,7 +285,7 @@
         "price": 79.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Meat and Seafood",
-        "image": "/images/meat4.jpg"
+        "image": "https://images.unsplash.com/photo-1602473812169-ede177b00aea?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 37,
@@ -293,7 +293,7 @@
         "price": 55.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Meat and Seafood",
-        "image": "/images/meat5.jpg"
+        "image": "https://plus.unsplash.com/premium_photo-1669984110630-b1acf513fcfa?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 38,
@@ -301,7 +301,7 @@
         "price": 39.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Meat and Seafood",
-        "image": "/images/meat6.jpg"
+        "image": "https://images.unsplash.com/photo-1560781290-7dc94c0f8f4f?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 39,
@@ -309,7 +309,7 @@
         "price": 79.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Meat and Seafood",
-        "image": "/images/meat7.jpg"
+        "image": "https://images.unsplash.com/photo-1603048297172-c92544798d5a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 40,
@@ -317,7 +317,7 @@
         "price": 79.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Meat and Seafood",
-        "image": "/images/meat8.jpg"
+        "image": "https://images.unsplash.com/photo-1707886114143-8e141e520245?q=80&w=2012&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 41,
@@ -325,7 +325,7 @@
         "price": 55.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Meat and Seafood",
-        "image": "/images/meat9.jpg"
+        "image": "https://images.unsplash.com/photo-1645177628172-a94c1f96e6db?q=80&w=2127&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 42,
@@ -333,7 +333,7 @@
         "price": 39.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Meat and Seafood",
-        "image": "/images/meat10.jpg"
+        "image": "https://images.unsplash.com/photo-1723473549471-9020d593672a?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 43,
@@ -341,7 +341,7 @@
         "price": 79.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Meat and Seafood",
-        "image": "/images/meat11.jpg"
+        "image": "https://images.unsplash.com/photo-1559737558-2f5a35f4523b?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 44,
@@ -349,7 +349,7 @@
         "price": 55.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Meat and Seafood",
-        "image": "/images/meat12.jpg"
+        "image": "https://plus.unsplash.com/premium_photo-1709146097755-f5f9ba107de8?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 45,
@@ -357,7 +357,7 @@
         "price": 39.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Meat and Seafood",
-        "image": "/images/meat13.jpg"
+        "image": "https://plus.unsplash.com/premium_photo-1669984110630-b1acf513fcfa?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 46,
@@ -365,7 +365,7 @@
         "price": 79.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Beverage",
-        "image": "/images/milk.jpg"
+        "image": "https://images.unsplash.com/photo-1563636619-e9143da7973b?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 47,
@@ -373,7 +373,7 @@
         "price": 55.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Breakfast and Dairy",
-        "image": "/images/munche.jpg"
+        "image": "https://images.unsplash.com/photo-1621939514649-280e2ee25f60?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 48,
@@ -381,7 +381,7 @@
         "price": 39.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Breakfast and Dairy",
-        "image": "/images/nescafe.jpg"
+        "image": "https://images.unsplash.com/photo-1632054010678-7f2e5a1a7355?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 49,
@@ -389,7 +389,7 @@
         "price": 79.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Breakfast and Dairy",
-        "image": "/images/nutella.jpg"
+        "image": "https://images.unsplash.com/photo-1584053386451-f078fff801ae?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 50,
@@ -397,7 +397,7 @@
         "price": 79.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Breakfast and Dairy",
-        "image": "/images/oats.jpg"
+        "image": "https://images.unsplash.com/photo-1631019143066-4b885b34528c?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 51,
@@ -405,7 +405,7 @@
         "price": 55.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Bakery",
-        "image": "/images/pastries.jpg"
+        "image": "https://images.unsplash.com/photo-1679458219811-8b4c8b4c82c9?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 52,
@@ -413,7 +413,7 @@
         "price": 39.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Fruits and Vegetable",
-        "image": "/images/pear.jpg"
+        "image": "https://images.unsplash.com/photo-1517428956741-0e738679fc79?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 53,
@@ -421,7 +421,7 @@
         "price": 79.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Beverage",
-        "image": "/images/pepsi.jpg"
+        "image": "https://images.unsplash.com/photo-1629203851122-3726ecdf080e?q=80&w=2129&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 54,
@@ -429,7 +429,7 @@
         "price": 55.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Fruits and Vegetable",
-        "image": "/images/potato.jpg"
+        "image": "https://plus.unsplash.com/premium_photo-1675365779531-031dfdcdf947?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 55,
@@ -437,7 +437,7 @@
         "price": 39.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Breakfast and Dairy",
-        "image": "/images/quaker.jpg"
+        "image": "https://images.unsplash.com/photo-1728487893807-e8963a2eeb13?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 56,
@@ -445,7 +445,15 @@
         "price": 79.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Breakfast and Dairy",
-        "image": "/images/ramen.jpg"
+        "image": "https://images.unsplash.com/photo-1710738643743-7b0ca179d9a3?q=80&w=1962&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "id": 56,
+        "title": "Noodle",
+        "price": 79.99,
+        "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
+        "category": "Breakfast and Dairy",
+        "image": "https://images.unsplash.com/photo-1666493555923-096978aaec07?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 57,
@@ -453,7 +461,7 @@
         "price": 55.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Bakery",
-        "image": "/images/redcake.jpg"
+        "image": "https://images.unsplash.com/photo-1651604017130-050c5e654269?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 58,
@@ -461,15 +469,15 @@
         "price": 39.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Beverage",
-        "image": "/images/redwine.jpg"
+        "image": "https://images.unsplash.com/photo-1634243888011-9594254cd4a6?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 59,
-        "title": "Roots",
+        "title": "Pomegranate",
         "price": 79.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Fruits and Vegetable",
-        "image": "/images/root.jpg"
+        "image": "https://images.unsplash.com/photo-1700663654497-0eb7cdc152b6?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 60,
@@ -477,7 +485,7 @@
         "price": 79.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Beverage",
-        "image": "/images/sprite.jpg"
+        "image": "https://images.unsplash.com/photo-1680404005217-a441afdefe83?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 61,
@@ -485,7 +493,7 @@
         "price": 55.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Fruits and Vegetable",
-        "image": "/images/strawberry.jpg"
+        "image": "https://images.unsplash.com/photo-1569613562636-7492d9f77aed?q=80&w=1972&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 62,
@@ -493,7 +501,7 @@
         "price": 39.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Breakfast and Dairy",
-        "image": "/images/tea.jpg"
+        "image": "https://images.unsplash.com/photo-1728977627308-1100ae430cef?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 63,
@@ -501,15 +509,15 @@
         "price": 79.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Fruits and Vegetable",
-        "image": "/images/tomato.jpg"
+        "image": "https://plus.unsplash.com/premium_photo-1669906333449-5fc2c47cd8ec?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 64,
-        "title": "Water Bundle",
+        "title": "Water Bottle",
         "price": 55.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Beverage",
-        "image": "/images/water.jpg"
+        "image": "https://images.unsplash.com/photo-1655079343782-f0fc4704753e?q=80&w=1954&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 65,
@@ -517,7 +525,7 @@
         "price": 39.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Bakery",
-        "image": "/images/whitecake.jpg"
+        "image": "https://images.unsplash.com/photo-1495147466023-ac5c588e2e94?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "id": 66,
@@ -525,6 +533,6 @@
         "price": 79.99,
         "description": "Your one-stop shop for fresh produce, snacks, beverages, and all your daily essentials. From dairy and baked goods to drinks and pantry staples, we’ve got everything you need to make your shopping easy and convenient!",
         "category": "Beverage",
-        "image": "/images/whitewine.jpg"
+        "image": "https://images.unsplash.com/photo-1495147466023-ac5c588e2e94?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     }
 ]
